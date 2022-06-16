@@ -1,1 +1,1 @@
-# dotnettestsolutiongenerator
+# dotnet testsolutio ngenerator using powershell script
